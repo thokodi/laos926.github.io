@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="test" name="laos926.github.io" version="1.0" provider-name="thokodi">
+<addon id="laos926.github.io" name="laos926.github.io" version="1.0" provider-name="thokodi">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/thokodi/laos926.github.io/master/repo/zips/addons.xml</info>
