@@ -2,9 +2,9 @@
 <addon id="test" name="laos926.github.io" version="1.0" provider-name="thokodi">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/thokodi/laos926.github.io/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/thokodi/laos926.github.io/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/thokodi/laos926.github.io/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/thokodi/laos926.github.io/master/repo/laos926/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/thokodi/laos926.github.io/master/repo/laos926/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/thokodi/laos926.github.io/master/repo/laos926/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
